@@ -2,21 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16px"
-   height="16px"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="SVGRoot"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="favicon.svg">
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://creativecommons.org/ns#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        width="16px"
+        height="16px"
+        viewBox="0 0 16 16"
+        version="1.1"
+        id="SVGRoot"
+        inkscape:version="0.92.3 (2405546, 2018-03-11)"
+        sodipodi:docname="favicon.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="9.6931119"
-     inkscape:cy="9.0775105"
+     inkscape:cx="9.7815002"
+     inkscape:cy="9.0333163"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,8 +69,8 @@
        sodipodi:type="star"
        id="path4143"
        sodipodi:sides="5"
-       sodipodi:cx="2.1213202"
-       sodipodi:cy="1.9683498"
+       sodipodi:cx="11.092737"
+       sodipodi:cy="4.6862916"
        sodipodi:r1="0.88305444"
        sodipodi:r2="0.71440607"
        sodipodi:arg1="0.55329433"
@@ -79,7 +78,7 @@
        inkscape:flatsided="true"
        inkscape:rounded="-0.863874"
        inkscape:randomized="0"
-       d="M 2.8726212,2.4323886 C 3.3438734,1.6694089 1.040896,2.6138616 1.9121579,2.8262754 2.7834197,3.0386891 1.1735326,1.1402794 1.2407498,2.0345381 1.307967,2.9287968 2.6159795,0.81106241 1.7862602,1.1513309 0.95654089,1.4915994 3.3748241,2.0811772 2.7948122,1.397216 2.2148002,0.71325484 2.401369,3.1953684 2.8726212,2.4323886 Z"
+       d="M 11.844038,5.1503305 C 12.31529,4.3873508 10.012313,5.3318035 10.883575,5.5442172 11.754837,5.756631 10.14495,3.8582213 10.212167,4.75248 c 0.06722,0.8942587 1.375229,-1.2234757 0.54551,-0.8832072 -0.8297192,0.3402685 1.588564,0.9298463 1.008552,0.2458851 -0.580012,-0.6839612 -0.393443,1.7981524 0.07781,1.0351726 z"
        inkscape:transform-center-x="0.03351424"
        inkscape:transform-center-y="0.010116839" />
     <use
@@ -90,15 +89,6 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(2.8648591,0.74773453)" />
-    <use
-       id="use4147"
-       inkscape:spray-origin="#path4143"
-       xlink:href="#path4143"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%"
-       transform="translate(2.9108162,1.0010689)" />
+       transform="translate(-5.7088108,5.0124732)" />
   </g>
 </svg>
